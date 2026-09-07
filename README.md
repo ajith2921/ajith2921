@@ -1,7 +1,7 @@
-# Hi there, I'm Arul Ajith J 👋
+<h1 align="center">Hi there, I'm Arul Ajith J 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=600&lines=Software+Developer;Full-Stack+Engineer+(React.js+%2F+Python);Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2196F3&width=600&lines=Software+Developer;Full-Stack+Engineer+(React.js+%2F+Python);Generative+AI+Developer;Building+LLM-Powered+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,46 +17,51 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science & Engineering student and Software Developer based in Colachel, Tamil Nadu. I specialize in building scalable, production-ready applications with modern web technologies and applied artificial intelligence.
+I am a Software Developer and Computer Science & Engineering student based in Tamil Nadu, specializing in **Full-Stack Web Development** and **Generative AI**. I bridge the gap between complex AI models and user-friendly web interfaces, building scalable, production-ready applications.
 
-- 🔭 I’m currently focused on **Full-Stack Web Development (React.js, FastAPI, PostgreSQL)** and integrating **Generative AI** solutions.
-- 🌱 I’m continually learning and delivering end-to-end applications—from REST API design through Vercel deployment.
-- 👨‍🎓 Currently pursuing my B.E. in Computer Science & Engineering at Stella Mary's College of Engineering.
-- 💬 Ask me about **Python, React.js, SQL/NoSQL databases, or deploying AI models**.
-- 📫 How to reach me: [ajithrafin17@gmail.com](mailto:ajithrafin17@gmail.com)
+- 💼 **Experience:** AI & ML Intern at TARAS Systems and Solutions | Python Full Stack Intern at Hexcent Pvt Ltd.
+- 🔭 **Focus:** Currently building LLM-powered applications and responsive frontends (React.js, FastAPI, PostgreSQL).
+- 🧠 **Gen AI:** Certified in Generative AI by Microsoft/LinkedIn, with practical experience in Prompt Engineering and Grok API integration.
+- 👨‍🎓 **Education:** B.E. in Computer Science & Engineering at Stella Mary's College of Engineering (2023 - 2027).
+- 📫 **Reach me at:** [ajithrafin17@gmail.com](mailto:ajithrafin17@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages, Frontend & Backend
+### Frontend & Backend Architecture
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,materialui,fastapi" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,materialui,fastapi,html,css" alt="Languages and Frameworks" />
 </div>
 
-### Databases, DevOps & Tools
+### Databases, DevOps & Cloud
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode,vercel" alt="Tools and Databases" />
 </div>
 
-### AI & Machine Learning
-- OpenCV | scikit-learn | NumPy | Pandas | **Generative AI**
+### 🤖 AI & Machine Learning
+`Generative AI` | `LLM API Integration (Grok)` | `Prompt Engineering` | `OpenCV` | `scikit-learn` | `TensorFlow` | `Pandas`
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[IEI Kanyakumari Local Centre Website](https://iei-kanyakumari-local-centre.vercel.app/)**: Developed and deployed the official organization website with dynamic content management. Built with React.js frontend, FastAPI backend, and Supabase.
-- **Real Estate Web Application**: A responsive full-stack platform with property listings, advanced filtering, and search functionality utilizing React.js and PostgreSQL.
-- **AI Voice Assistant**: A Python-based assistant designed to automate daily tasks and fetch real-time data via third-party APIs using the SpeechRecognition library.
+### 🧠 [AI Chatbot (LLM-Powered)](https://github.com/ajith2921)
+Built a ChatGPT-style conversational chatbot utilizing a **React.js** frontend and a **Python** backend. Integrated the **Grok LLM API** and applied prompt engineering techniques to manage conversational context for multi-turn responses.
+
+### 🌐 [IEI Kanyakumari Local Centre Website](https://iei-kanyakumari-local-centre.vercel.app/)
+Led the end-to-end development of the official organization website. Engineered a responsive, mobile-first frontend using **React.js** and a secure REST API backend using **FastAPI** and **Supabase**, fully deployed on Vercel.
+
+### 🏢 Real Estate Web Application
+Architected a full-stack real estate platform featuring dynamic property listings and advanced search filtering. Built with **React.js**, **FastAPI**, and **PostgreSQL** to ensure fast load times and seamless API data integration.
 
 ---
 
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajith2921&show_icons=true&theme=radical&hide_border=true" alt="Ajith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith2921&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajith2921&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ajith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith2921&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
