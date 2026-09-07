@@ -56,16 +56,3 @@ Led the end-to-end development of the official organization website. Engineered 
 Architected a full-stack real estate platform featuring dynamic property listings and advanced search filtering. Built with **React.js**, **FastAPI**, and **PostgreSQL** to ensure fast load times and seamless API data integration.
 
 ---
-
-## 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajith2921&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ajith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith2921&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ajith2921/count.svg" alt="Visitor Count" />
-</div>
